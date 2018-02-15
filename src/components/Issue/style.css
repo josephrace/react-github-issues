@@ -1,0 +1,30 @@
+.issue {
+  border: 1px solid #e1e4e8;
+  margin-top: -1px;
+}
+
+.issue:hover {
+  background-color: #f6f8fa;
+}
+
+.issue-title {
+  font-size: 1rem;
+  font-weight: 600;
+  color: #24292e;
+  margin: 0.2rem 0.25rem 0.2rem 0;
+  text-decoration: none;
+}
+
+.issue-labels {
+  margin: 0.2rem 0;
+}
+
+.issue-labels .label {
+  margin: 0 0.25rem 0 0;
+}
+
+.issue-info {
+  margin-top: 0.2rem;
+  font-size: 0.8rem;
+  color: #586069;
+}

@@ -1,0 +1,7 @@
+.avatar-stack {
+  display: flex;
+}
+
+.avatar-stack .avatar {
+  border-left: 1px solid #ffffff;
+}

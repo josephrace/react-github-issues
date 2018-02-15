@@ -1,0 +1,19 @@
+.issue-list {
+  margin: 1rem 0;
+}
+
+.issue-list-header {
+  background-color: #f6f8fa;
+  border: 1px solid #e1e4e8;
+  border-radius: 3px 3px 0 0;
+  font-size: 0.9rem;
+}
+
+.issue-list__clear-filters {
+  margin-bottom: 1rem;
+}
+
+.issue-list__clear-filters:hover {
+  color: #0366d6;
+  cursor: pointer;
+}
